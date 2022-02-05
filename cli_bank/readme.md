@@ -1,3 +1,5 @@
+Тестовое задание от NT Pro (https://ntprogress.ru/)
+
 Установка:
 `py -m pip install -r requirements.txt`
 DB: Sqlite
